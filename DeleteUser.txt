@@ -1,1 +1,0 @@
-This is the code to delete a user
